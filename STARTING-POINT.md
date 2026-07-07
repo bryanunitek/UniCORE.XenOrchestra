@@ -1,0 +1,2 @@
+# UniCORE.XenOrchestra — Starting Point
+Fork of upstream `vatesfr/xen-orchestra` (the ONE monorepo; XOA appliance + Community/from-source builds both derive from it). `main` tracks upstream (monthly upstream-merge). `unicore` = deploy branch (main + UniCORE additions to build XOA-equivalent functionality so UniCORE runs standalone). Deployed on the XO6CE-001 hosts. Deploy ONLY from `unicore`. Created 2026-07-07 by Team UniCORE.
